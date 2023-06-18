@@ -4,7 +4,7 @@ const Hero = () => {
     return (
         <div className="jumbotron text-center">
             <h1>Company</h1>
-            <p>We specialize in blablablab</p>
+            <p>This is Staging Environment</p>
             <form className="form-inline">
                 <div className="input-group">
                     <input type="email" className="form-control" size="50" placeholder="Email Address" required />
